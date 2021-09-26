@@ -21,10 +21,10 @@ import java.util.List;
 import java.util.Collections;
 
 @CoolerBiomesModElements.ModElement.Tag
-public class MossBlock extends CoolerBiomesModElements.ModElement {
-	@ObjectHolder("cooler_biomes:moss")
+public class AspenLogBlock extends CoolerBiomesModElements.ModElement {
+	@ObjectHolder("cooler_biomes:aspen_log")
 	public static final Block block = null;
-	public MossBlock(CoolerBiomesModElements instance) {
+	public AspenLogBlock(CoolerBiomesModElements instance) {
 		super(instance, 2);
 	}
 
@@ -35,8 +35,8 @@ public class MossBlock extends CoolerBiomesModElements.ModElement {
 	}
 	public static class CustomBlock extends Block {
 		public CustomBlock() {
-			super(Block.Properties.create(Material.EARTH).sound(SoundType.GROUND).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0));
-			setRegistryName("moss");
+			super(Block.Properties.create(Material.WOOD).sound(SoundType.WOOD).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0));
+			setRegistryName("aspen_log");
 		}
 
 		@Override

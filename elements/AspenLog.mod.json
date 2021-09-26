@@ -2,12 +2,12 @@
   "_fv": 24,
   "_type": "block",
   "definition": {
-    "texture": "moss",
-    "textureTop": "moss",
-    "textureLeft": "moss",
-    "textureFront": "moss",
-    "textureRight": "moss",
-    "textureBack": "moss",
+    "texture": "aspenlogtop",
+    "textureTop": "aspenlogtop",
+    "textureLeft": "aspenlog",
+    "textureFront": "aspenlog",
+    "textureRight": "aspenlog",
+    "textureBack": "aspenlog",
     "renderType": 10,
     "customModelName": "Normal",
     "rotationMode": 0,
@@ -32,7 +32,7 @@
         "subtract": false
       }
     ],
-    "name": "Moss Block",
+    "name": "Aspen Log",
     "specialInfo": [],
     "hardness": 1.0,
     "resistance": 10.0,
@@ -52,7 +52,7 @@
     "canRedstoneConnect": false,
     "lightOpacity": 15,
     "material": {
-      "value": "EARTH"
+      "value": "WOOD"
     },
     "tickRate": 10,
     "tickRandomly": false,
@@ -77,7 +77,7 @@
     "isNotColidable": false,
     "isCustomSoundType": false,
     "soundOnStep": {
-      "value": "GROUND"
+      "value": "WOOD"
     },
     "breakSound": {
       "value": ""
