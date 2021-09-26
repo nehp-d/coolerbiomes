@@ -1,3 +1,5 @@
 {
-  "biome.cooler_biomes.aspen_forest": "Aspen Forest"
+  "itemGroup.tabnature_tab": "Cooler Biomes Nature",
+  "biome.cooler_biomes.aspen_forest": "Aspen Forest",
+  "block.cooler_biomes.moss": "Moss"
 }

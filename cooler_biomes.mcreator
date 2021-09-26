@@ -9,13 +9,33 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "aspen_forest"
+    },
+    {
+      "name": "Moss",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "moss"
+    },
+    {
+      "name": "NatureTab",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nature_tab"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "biome.cooler_biomes.aspen_forest": "Aspen Forest"
+      "itemGroup.tabnature_tab": "Cooler Biomes Nature",
+      "biome.cooler_biomes.aspen_forest": "Aspen Forest",
+      "block.cooler_biomes.moss": "Moss"
     }
   },
   "foldersRoot": {
