@@ -1,62 +1,10 @@
 {
   "id_map": {},
-  "mod_elements": [
-    {
-      "name": "AspenForest",
-      "type": "biome",
-      "sortid": 1,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "aspen_forest"
-    },
-    {
-      "name": "Moss",
-      "type": "block",
-      "sortid": 2,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "moss"
-    },
-    {
-      "name": "NatureTab",
-      "type": "tab",
-      "sortid": 2,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "nature_tab"
-    },
-    {
-      "name": "AspenLeaves",
-      "type": "block",
-      "sortid": 2,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "aspen_leaves"
-    },
-    {
-      "name": "AspenLog",
-      "type": "block",
-      "sortid": 2,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "aspen_log"
-    }
-  ],
+  "mod_elements": [],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {
-      "itemGroup.tabnature_tab": "Cooler Biomes Nature",
-      "block.cooler_biomes.aspen_log": "Aspen Log",
-      "biome.cooler_biomes.aspen_forest": "Aspen Forest",
-      "block.cooler_biomes.aspen_leaves": "Aspen Leaves",
-      "block.cooler_biomes.moss": "Moss Block"
-    }
+    "en_us": {}
   },
   "foldersRoot": {
     "name": "~",
