@@ -1,10 +1,62 @@
 {
   "id_map": {},
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "Viciata",
+      "type": "food",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "viciata"
+    },
+    {
+      "name": "Dragonfruit",
+      "type": "food",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dragonfruit"
+    },
+    {
+      "name": "Kiwi",
+      "type": "food",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kiwi"
+    },
+    {
+      "name": "Lime",
+      "type": "food",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lime"
+    },
+    {
+      "name": "Fruitcrate",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fruitcrate"
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "item.cooler_biomes.kiwi": "Kiwi",
+      "block.cooler_biomes.fruitcrate": "Fruit Crate",
+      "item.cooler_biomes.dragonfruit": "Dragonfruit",
+      "item.cooler_biomes.lime": "Lime",
+      "item.cooler_biomes.viciata": "Viciata Berry"
+    }
   },
   "foldersRoot": {
     "name": "~",
